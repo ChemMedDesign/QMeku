@@ -1,0 +1,23 @@
+{
+  "pdb_id": "4HBY",
+  "set": "pfi1_series",
+  "ligand_ccd": "13F",
+  "selected_instance": {
+    "chain": "A",
+    "resnum": "201",
+    "inscode": "_"
+  },
+  "chains_within_8A": [
+    "A"
+  ],
+  "downloaded_utc": "2026-11-01T02:36:31.636019+00:00",
+  "sha256": {
+    "13F_ideal.sdf": "ed6afcb4556d98dc214e628679d043b2e68940cfa8c332520761e2ca854f832e",
+    "structure.pdb": "a2a96a51c4847523822a9e94bafc73f9ca655f7873a875334ce329cf797a3f8a",
+    "structure.cif": "d68ae6dc8c355e536b86c18d215c0d3116cc985db3d87f1ed9055e62d22c5525",
+    "receptor_protein_only_unprepared.pdb": "c6466dea98386cb165abe80f91038a354293152ac17bd5edee403018ad24978a",
+    "ligand_crystal_unprepared.sdf": "be0e7a5c46d1c4cf7a2ec9991cf1fde9045d5c6c77859e3ae347aecc537cddee",
+    "ligand_crystal.pdb": "0119ab9094afd290f300dc295a3552c307f5d895e755f31110ab91d04fedf322",
+    "entry.json": "deecc9c2a81d2ab9c581d39d9041f024d67aa5c3cf627aa675e73a466ff3276a"
+  }
+}

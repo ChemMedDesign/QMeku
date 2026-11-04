@@ -1,0 +1,71 @@
+{
+  "ligand": {
+    "atom_count": 53,
+    "charge": -1,
+    "heavy_atom_count": 22,
+    "heavy_atom_rmsd_A": 0.0,
+    "protonation_changes": [
+      "deprotonated carboxylate O atoms [21]"
+    ],
+    "reused": false
+  },
+  "ligand_tool": "RDKit 2026.03.6",
+  "pdb_id": "1ADL",
+  "prepared_utc": "2026-10-31T19:49:13.082596+00:00",
+  "protein_tool": "pdb4amber --reduce (AmberTools)",
+  "protonation_ph": 7.4,
+  "qmeku_validation": {
+    "even_electron_model": true,
+    "ligand_charge": -1,
+    "model_charge": 1,
+    "model_electrons": 2368,
+    "pocket_atoms": 577,
+    "pocket_residues_at_4A": 31,
+    "pose": "1ADL_ACD_crystal_pH7.4"
+  },
+  "receptor": {
+    "atom_count": 2057,
+    "heavy_atom_modifications": [
+      "MHO A40 reverted to MET; sulfoxide OD1 removed",
+      "CSD A117 reverted to CYS; OD1/OD2 removed"
+    ],
+    "hydrogen_count": 1040,
+    "pdb4amber_command": [
+      "pdb4amber",
+      "-i",
+      "/tmp/qmeku_1ADL_busvkbe8/protein_heavy.pdb",
+      "-o",
+      "/tmp/qmeku_1ADL_busvkbe8/receptor_amber.pdb",
+      "-p",
+      "-a",
+      "-d",
+      "--reduce",
+      "--add-missing-atoms",
+      "-l",
+      "/tmp/qmeku_1ADL_busvkbe8/pdb4amber.log"
+    ],
+    "pdb4amber_returncode": 0,
+    "residue_names": [
+      "ALA",
+      "ARG",
+      "ASN",
+      "ASP",
+      "CYS",
+      "GLN",
+      "GLU",
+      "GLY",
+      "ILE",
+      "LEU",
+      "LYS",
+      "MET",
+      "PHE",
+      "PRO",
+      "SER",
+      "THR",
+      "TRP",
+      "TYR",
+      "VAL"
+    ],
+    "reused": false
+  }
+}

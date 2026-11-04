@@ -1,0 +1,48 @@
+
+==================================================
+Summary of pdb4amber for: /tmp/qmeku_1E66_ya7u7o5b/protein_heavy.pdb
+===================================================
+REDUCE returned non-zero exit status: See reduce_info.log for more details
+
+----------Chains
+The following (original) chains have been found:
+A
+
+---------- Alternate Locations (Original Residues!))
+
+The following residues had alternate locations:
+None
+-----------Non-standard-resnames
+
+
+---------- Missing heavy atom(s)
+
+LEU_4 misses 3 heavy atom(s)
+ASN_39 misses 3 heavy atom(s)
+ARG_43 misses 5 heavy atom(s)
+ARG_44 misses 5 heavy atom(s)
+LYS_49 misses 3 heavy atom(s)
+GLU_86 misses 3 heavy atom(s)
+GLN_159 misses 3 heavy atom(s)
+LYS_189 misses 3 heavy atom(s)
+ASN_250 misses 3 heavy atom(s)
+ASN_254 misses 3 heavy atom(s)
+GLU_257 misses 3 heavy atom(s)
+GLU_265 misses 4 heavy atom(s)
+LYS_267 misses 2 heavy atom(s)
+GLU_296 misses 3 heavy atom(s)
+GLU_347 misses 3 heavy atom(s)
+ASP_362 misses 2 heavy atom(s)
+ASN_379 misses 2 heavy atom(s)
+LYS_410 misses 3 heavy atom(s)
+GLU_431 misses 3 heavy atom(s)
+LYS_451 misses 3 heavy atom(s)
+GLU_452 misses 4 heavy atom(s)
+LYS_475 misses 4 heavy atom(s)
+HIS_483 misses 5 heavy atom(s)
+GLN_485 misses 3 heavy atom(s)
+GLU_486 misses 3 heavy atom(s)
+SER_487 misses 1 heavy atom(s)
+LYS_508 misses 3 heavy atom(s)
+GLN_523 misses 3 heavy atom(s)
+ALA_533 misses 4 heavy atom(s)

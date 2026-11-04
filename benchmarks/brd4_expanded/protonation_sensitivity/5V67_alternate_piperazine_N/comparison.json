@@ -1,0 +1,37 @@
+{
+  "alternate_mopac": -18.687,
+  "alternate_protonated_atom": 40,
+  "alternate_xtb": -28.88,
+  "created_utc": "2026-11-01T02:19:54.892647+00:00",
+  "delta_mopac": -0.7110000000000021,
+  "delta_xtb": 3.262000000000004,
+  "heavy_atom_rmsd_A": 0.0,
+  "ligand_charge": 1,
+  "primary_mopac": -17.976,
+  "primary_protonated_atom": 39,
+  "primary_xtb": -32.142,
+  "qmeku_command": [
+    "/path/to/qmeku/bin/qmeku",
+    "/path/to/qmeku/benchmarks/brd4_expanded/kd_itc_series/5V67/prepared/receptor.pdb",
+    "/path/to/qmeku/benchmarks/brd4_expanded/protonation_sensitivity/5V67_alternate_piperazine_N/ligand.sdf",
+    "--outdir",
+    "/path/to/qmeku/benchmarks/brd4_expanded/protonation_sensitivity/5V67_alternate_piperazine_N/results",
+    "--method",
+    "both",
+    "--total-only",
+    "--no-gas",
+    "--workers",
+    "2",
+    "--quiet"
+  ],
+  "qmeku_validation": {
+    "even_electron_model": true,
+    "ligand_charge": 1,
+    "min_atom_distance_A": 0.9801,
+    "model_charge": 2,
+    "model_electrons": 1550,
+    "pocket_atoms": 318,
+    "pocket_residues_at_4A": 16,
+    "pose": "5V67_IBI_crystal_pH7.4_alternate_piperazine_N40"
+  }
+}

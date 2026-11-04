@@ -1,0 +1,38 @@
+{
+  "accessed_utc": "2026-11-01T01:49:15.707737+00:00",
+  "assembly_id": null,
+  "coordinate_source": "raw/structure.pdb",
+  "ligand_atom_count": 47,
+  "ligand_ccd": "VYJ",
+  "ligand_sdf_status": "created_with_RDKIT_CCD_template_and_crystal_coordinates; verify protonation",
+  "pdb_id": "7K6G",
+  "preparation_status": "raw_only; protonation, AMBER residue naming, and ligand chemistry require validation",
+  "selected_ligand_instance": {
+    "chain": "B",
+    "insertion_code": "_",
+    "residue_number": "201"
+  },
+  "selected_protein_chains_within_8A": [
+    "A",
+    "B"
+  ],
+  "set": "kd_itc_series",
+  "sha256": {
+    "raw/VYJ_ideal.sdf": "22f0c162a51d7dc0185e7724325d2be1996cc0e75aeebff761be5d97b263ae26",
+    "raw/entry.json": "a87cb4d5d464fca922432e8afad246fb1c7c6b30527f9930f388c11c591b7b92",
+    "raw/ligand_crystal.pdb": "bf9e15ae52e4aae5f54ff943158dcc7af1eb428fe59249a34c0ee0011ccfdbcc",
+    "raw/ligand_crystal_unprepared.sdf": "54bef1f54bff1eb398533f0f66f969eda572ef1441c11c515b6d4dedfd0065c7",
+    "raw/receptor_protein_only_unprepared.pdb": "8e35619442403676b0d4ddda5ccc9b8731cad6b12a356204c21ed933c0ff5dcb",
+    "raw/structure.cif": "0fdcbf636151d4adf67097897ec8fb31011a149924413a9dd5d5340681aebabd",
+    "raw/structure.pdb": "9e728157e97127357ebbcce369d74a93c0e64bba3fd2905aee937133c409f81f"
+  },
+  "source": "RCSB Protein Data Bank",
+  "urls": {
+    "cif": "https://files.rcsb.org/download/7K6G.cif",
+    "entry_json": "https://data.rcsb.org/rest/v1/core/entry/7K6G",
+    "ligand_ideal_sdf": "https://files.rcsb.org/ligands/download/VYJ_ideal.sdf",
+    "pdb": "https://files.rcsb.org/download/7K6G.pdb",
+    "validation_pdf": "https://files.rcsb.org/pub/pdb/validation_reports/k6/7k6g/7k6g_full_validation.pdf"
+  },
+  "validation_warning": null
+}

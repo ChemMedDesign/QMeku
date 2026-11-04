@@ -1,0 +1,3 @@
+pdb_id,ligand_chain,original_selected_chains,chain_matched_source_atoms,original_pocket_residues,chain_matched_pocket_residues,original_pocket_atoms,chain_matched_pocket_atoms,original_pocket_charge,chain_matched_pocket_charge,original_xtb,chain_matched_xtb,delta_xtb,original_mopac,chain_matched_mopac,delta_mopac
+4OGI,B,A;B,1061,20,15,400,296,-1,0,-30.567,-21.927,8.640,-14.993,-20.061,-5.068
+5VBP,B,A;B,2117,18,13,380,276,0,1,-33.604,-23.836,9.768,-15.523,-19.371,-3.848

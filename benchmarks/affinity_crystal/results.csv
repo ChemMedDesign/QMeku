@@ -1,0 +1,13 @@
+pdb_id,set,ligand_ccd,affinity_type,affinity_value,affinity_unit,experimental_dg_kcal_mol,xtb_e_bind_kcal_mol,mopac_e_bind_kcal_mol,pocket_residues,pocket_atoms,pocket_charge,ligand_charge,status
+2V00,core_absolute,V15,Kd,220,uM,-4.99,-19.357,17.187,20,302,-4,0,completed
+1ADL,core_absolute,ACD,Kd,4.4,uM,-7.31,-6.486,-0.724,31,577,2,-1,completed
+3P5O,core_absolute,EAM,Kd,55.2,nM,-9.90,-26.259,-19.688,18,343,-2,0,completed
+3COW,core_absolute,52H,Kd,125,nM,-9.42,-10.524,46.730,27,483,-3,0,completed
+1AMW,core_absolute,ADP,Kd,29,uM,-6.19,-32.729,23.771,18,315,0,-3,completed
+1BM7,core_absolute,FLF,Kd,30,nM,-10.26,-11.517,-6.893,13,212,1,-1,completed
+5F63,brd4_rank,5W2,Kd,12,nM,-10.80,-40.934,-30.168,17,331,-1,1,completed
+4WIV,brd4_rank,3P2,Kd,550,nM,-8.54,-23.839,-23.357,14,289,-1,0,completed
+1E66,stress,HUX,Ki,0.13,nM,-13.48,-40.028,-21.524,24,459,-3,1,completed
+2HB1,stress,512,Ki,160,uM,-5.18,-39.504,-36.819,15,263,1,-2,completed
+1BCU,stress,PRL,Kd,530,uM,-4.47,-21.941,-11.950,16,248,-5,1,completed
+3PTB,development_control,BEN,Ki,18.4,uM,-6.46,-25.362,-17.412,16,225,-1,1,completed

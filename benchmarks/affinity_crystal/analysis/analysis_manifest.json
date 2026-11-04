@@ -1,0 +1,15 @@
+{
+  "source_data": "results.csv",
+  "rows": 12,
+  "missing_values": 0,
+  "excluded_rows": 0,
+  "bootstrap_resamples": 20000,
+  "random_seed": 20261031,
+  "python_packages": {
+    "numpy": "2.5.3",
+    "pandas": "3.0.6",
+    "scipy": "see scipy",
+    "matplotlib": "3.11.2"
+  },
+  "note": "Kd, Ki, and BRD4 strata were specified before calculating correlations in this script."
+}

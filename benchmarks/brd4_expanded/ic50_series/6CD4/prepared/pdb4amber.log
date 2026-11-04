@@ -1,0 +1,24 @@
+
+==================================================
+Summary of pdb4amber for: /tmp/qmeku_6CD4_r211y8l0/protein_heavy.pdb
+===================================================
+REDUCE returned non-zero exit status: See reduce_info.log for more details
+
+----------Chains
+The following (original) chains have been found:
+A
+
+---------- Alternate Locations (Original Residues!))
+
+The following residues had alternate locations:
+None
+-----------Non-standard-resnames
+
+
+---------- Missing heavy atom(s)
+
+LYS_30 misses 4 heavy atom(s)
+LYS_34 misses 4 heavy atom(s)
+LYS_49 misses 4 heavy atom(s)
+LYS_113 misses 4 heavy atom(s)
+GLU_121 misses 4 heavy atom(s)

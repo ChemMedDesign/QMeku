@@ -1,0 +1,70 @@
+{
+  "ligand": {
+    "atom_count": 41,
+    "charge": 0,
+    "heavy_atom_count": 24,
+    "heavy_atom_rmsd_A": 0.0,
+    "initial_ccd_charge": 0,
+    "protonation": "neutral CCD-derived protomer retained",
+    "reused": false
+  },
+  "ligand_tool": "RDKit 2026.03.6",
+  "pdb_id": "4E96",
+  "prepared_utc": "2026-11-01T02:40:45.200492+00:00",
+  "protein_tool": "pdb4amber --reduce (AmberTools)",
+  "protonation_ph": 7.4,
+  "qmeku_validation": {
+    "even_electron_model": true,
+    "ligand_charge": 0,
+    "min_atom_distance_A": 0.9799,
+    "model_charge": -1,
+    "model_electrons": 1318,
+    "pocket_atoms": 289,
+    "pocket_residues_at_4A": 14,
+    "pose": "4E96_0NS_crystal_neutral_pH7.4"
+  },
+  "receptor": {
+    "atom_count": 2077,
+    "heavy_atom_modifications": [],
+    "hydrogen_count": 1040,
+    "pdb4amber_command": [
+      "pdb4amber",
+      "-i",
+      "/tmp/qmeku_4E96_5kymtmwc/protein_heavy.pdb",
+      "-o",
+      "/tmp/qmeku_4E96_5kymtmwc/receptor_amber.pdb",
+      "-p",
+      "-a",
+      "-d",
+      "--reduce",
+      "--add-missing-atoms",
+      "-l",
+      "/tmp/qmeku_4E96_5kymtmwc/pdb4amber.log"
+    ],
+    "pdb4amber_returncode": 0,
+    "residue_names": [
+      "ALA",
+      "ARG",
+      "ASN",
+      "ASP",
+      "CYS",
+      "GLN",
+      "GLU",
+      "GLY",
+      "HIE",
+      "ILE",
+      "LEU",
+      "LYS",
+      "MET",
+      "PHE",
+      "PRO",
+      "SER",
+      "THR",
+      "TRP",
+      "TYR",
+      "VAL"
+    ],
+    "reused": false
+  },
+  "revalidated_utc": "2026-11-01T02:41:53.137693+00:00"
+}

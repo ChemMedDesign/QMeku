@@ -1,0 +1,23 @@
+{
+  "pdb_id": "4A9L",
+  "set": "high_res_neutral",
+  "ligand_ccd": "P9L",
+  "selected_instance": {
+    "chain": "A",
+    "resnum": "1171",
+    "inscode": "_"
+  },
+  "chains_within_8A": [
+    "A"
+  ],
+  "downloaded_utc": "2026-11-01T02:36:53.538878+00:00",
+  "sha256": {
+    "structure.pdb": "0422c007e2212db3f2e510b9d0401b6ab817f4cd6d4f46b8184195f9c68c15ee",
+    "structure.cif": "40055e54f640cceda79fc59a6419841ea43306e494b8472a0f6f92653bcb0342",
+    "receptor_protein_only_unprepared.pdb": "256a893856a6a2f32555f1234bee02b25a30d354a0a2d7b2b0e7c5175191fdfc",
+    "ligand_crystal_unprepared.sdf": "59c9314bb9287b71707a88bd8c88e38c399b1991120caa00bc23307991dcdf30",
+    "ligand_crystal.pdb": "68896edce6b98e1bd4ef76283f5b49af03c4388cb345417426e32a0d8cfd21f0",
+    "P9L_ideal.sdf": "e3c5491a96f5400405c7404d90c069f89e014e99cd5f966a3db53e354f2bb551",
+    "entry.json": "9acb3ad42286d790a39d276c3b2e859ebcc03fa9005b59589d61e7be2f4e4f4c"
+  }
+}

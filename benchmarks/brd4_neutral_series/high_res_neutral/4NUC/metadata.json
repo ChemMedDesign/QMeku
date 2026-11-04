@@ -1,0 +1,23 @@
+{
+  "pdb_id": "4NUC",
+  "set": "high_res_neutral",
+  "ligand_ccd": "435",
+  "selected_instance": {
+    "chain": "A",
+    "resnum": "201",
+    "inscode": "_"
+  },
+  "chains_within_8A": [
+    "A"
+  ],
+  "downloaded_utc": "2026-11-01T02:36:47.975302+00:00",
+  "sha256": {
+    "structure.pdb": "a1aeabaa3002616cc612109ca8793c02fa25528d5ac8e15f699aa8b2b032e667",
+    "structure.cif": "46e7855c10aea2596da35d62d1a1af38b9320762caf4e42a96e39e3ea0eda0f4",
+    "receptor_protein_only_unprepared.pdb": "80dabe03a7ae17f05053ed97d35b3a9ad80fadd9883acff6426760b2f1db10bc",
+    "ligand_crystal_unprepared.sdf": "c0ecc6a8e145a068d2f8bcdf7e1f3a8d5878711fc431a75cd1f4ac786b4b418f",
+    "435_ideal.sdf": "88b0be75f2dd82175fd236e31231dd923e39edbfa43c61de5255fd72934b1af0",
+    "ligand_crystal.pdb": "df033ad813f26ae533e2acb8e5cceac26e2437cc4b3aeb65218018055ea368a8",
+    "entry.json": "2429ff38d7ef2f38edf072d41702fbc5a51068b9cd53d436055198c3e214ed8a"
+  }
+}

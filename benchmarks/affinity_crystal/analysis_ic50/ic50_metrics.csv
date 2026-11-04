@@ -1,0 +1,5 @@
+method,n,x_variable,correlation,estimate,p_value,interpretation
+xTB/ALPB,3,pIC50,Pearson,-0.82714657,0.37992524,descriptive_only_n_lt_5
+xTB/ALPB,3,pIC50,Spearman,-0.5,0.66666667,descriptive_only_n_lt_5
+MOPAC/COSMO,3,pIC50,Pearson,-0.86793826,0.33088968,descriptive_only_n_lt_5
+MOPAC/COSMO,3,pIC50,Spearman,-0.5,0.66666667,descriptive_only_n_lt_5

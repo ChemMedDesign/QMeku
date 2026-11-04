@@ -1,0 +1,40 @@
+{
+  "accessed_utc": "2026-10-31T19:40:07.438764+00:00",
+  "assembly_id": "1",
+  "coordinate_source": "raw/assembly1.pdb",
+  "ligand_atom_count": 20,
+  "ligand_ccd": "FLF",
+  "ligand_sdf_status": "created_with_RDKIT_CCD_template_and_crystal_coordinates; verify protonation",
+  "pdb_id": "1BM7",
+  "preparation_status": "raw_only; protonation, AMBER residue naming, and ligand chemistry require validation",
+  "selected_ligand_instance": {
+    "chain": "B",
+    "insertion_code": "_",
+    "residue_number": "502"
+  },
+  "selected_protein_chains_within_8A": [
+    "A",
+    "B"
+  ],
+  "set": "core_absolute",
+  "sha256": {
+    "raw/FLF_ideal.sdf": "79d2b524166fc68a4fdfe868ba4e9ef6632d27a84865a648e3335194c266eab3",
+    "raw/assembly1.pdb": "83f2168fc1a91e32af7fcef72e3d6afcadb84a4820fde514e5171a6164172941",
+    "raw/entry.json": "80aa921734a4b511f6c0e7583eb63ac59afc20a4ba6feb9690832f9580aa8a3a",
+    "raw/ligand_crystal.pdb": "abb698a1f807950a74470125c775696f5cadf9f2eeacdf51daf27f02220cbdb3",
+    "raw/ligand_crystal_unprepared.sdf": "2345865748267bdef416ebd9da34323d090bc23903d283337016cb29305bad4f",
+    "raw/receptor_protein_only_unprepared.pdb": "82011fb61db6500b32af7893df036cd7a86b9c5d972b2412108a2828c6327c60",
+    "raw/structure.cif": "b4c841b3cab124df0d6f8453bed606000a8d17c35fa670f36f1d15cadd31e882",
+    "raw/structure.pdb": "f4e78add8378ee9bac8e2d68f8f0def23f2061d1171fcfad23ae87905498ddfc"
+  },
+  "source": "RCSB Protein Data Bank",
+  "urls": {
+    "assembly_pdb_gz": "https://files.rcsb.org/download/1BM7.pdb1.gz",
+    "cif": "https://files.rcsb.org/download/1BM7.cif",
+    "entry_json": "https://data.rcsb.org/rest/v1/core/entry/1BM7",
+    "ligand_ideal_sdf": "https://files.rcsb.org/ligands/download/FLF_ideal.sdf",
+    "pdb": "https://files.rcsb.org/download/1BM7.pdb",
+    "validation_pdf": "https://files.rcsb.org/pub/pdb/validation_reports/bm/1bm7/1bm7_full_validation.pdf"
+  },
+  "validation_warning": "could not download https://files.rcsb.org/pub/pdb/validation_reports/bm/1bm7/1bm7_full_validation.pdf: HTTP Error 403: Forbidden"
+}

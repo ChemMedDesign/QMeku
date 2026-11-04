@@ -1,0 +1,37 @@
+{
+  "accessed_utc": "2026-11-01T01:49:05.945342+00:00",
+  "assembly_id": null,
+  "coordinate_source": "raw/structure.pdb",
+  "ligand_atom_count": 31,
+  "ligand_ccd": "JQ1",
+  "ligand_sdf_status": "created_with_RDKIT_CCD_template_and_crystal_coordinates; verify protonation",
+  "pdb_id": "3MXF",
+  "preparation_status": "raw_only; protonation, AMBER residue naming, and ligand chemistry require validation",
+  "selected_ligand_instance": {
+    "chain": "A",
+    "insertion_code": "_",
+    "residue_number": "1"
+  },
+  "selected_protein_chains_within_8A": [
+    "A"
+  ],
+  "set": "kd_itc_series",
+  "sha256": {
+    "raw/JQ1_ideal.sdf": "d2951c86938c4aa8a33ddcf8d281201f75b791a5ce1bf7751e0b71d280475137",
+    "raw/entry.json": "c4947cb80a5a842a8623674b3bf8ba6e31082b8925c94efe08e4ea151309ae77",
+    "raw/ligand_crystal.pdb": "eae1bdde921f613f0144b53a2c645128f2aba632f603e4c5f1fe932d67270059",
+    "raw/ligand_crystal_unprepared.sdf": "0a8aaa6c70049eddb74f502cab9f9df8193b403214a2d9ec99bacb46e76e92bb",
+    "raw/receptor_protein_only_unprepared.pdb": "0c99e5367687818dafbcfe594a3860cab9f84f0a09403cd632a3680cae5ec57b",
+    "raw/structure.cif": "fb123201edb59709d14b64c5cb4296a90b6d35c45505baba48600d04e4cdd401",
+    "raw/structure.pdb": "534dcb8ea9fa29956249b5133b22187c3867363b16a6b98dd8219c18c5d3250f"
+  },
+  "source": "RCSB Protein Data Bank",
+  "urls": {
+    "cif": "https://files.rcsb.org/download/3MXF.cif",
+    "entry_json": "https://data.rcsb.org/rest/v1/core/entry/3MXF",
+    "ligand_ideal_sdf": "https://files.rcsb.org/ligands/download/JQ1_ideal.sdf",
+    "pdb": "https://files.rcsb.org/download/3MXF.pdb",
+    "validation_pdf": "https://files.rcsb.org/pub/pdb/validation_reports/mx/3mxf/3mxf_full_validation.pdf"
+  },
+  "validation_warning": null
+}

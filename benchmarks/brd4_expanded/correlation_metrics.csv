@@ -1,0 +1,7 @@
+analysis,method,experimental_variable,expected_sign,n,excluded,pearson_r,pearson_p,spearman_rho,spearman_p
+ic50_primary,xtb,pIC50,negative,7,none,-0.097223,0.835728,-0.107143,0.819151
+ic50_primary,mopac,pIC50,negative,7,none,-0.010354,0.982423,-0.285714,0.534509
+kd_itc_primary,xtb,pKd,negative,7,none,-0.019064,0.967642,0.142857,0.759945
+kd_itc_primary,mopac,pKd,negative,7,none,0.446697,0.315000,0.321429,0.482072
+kd_itc_sensitivity_without_3MXF,xtb,pKd,negative,6,3MXF excluded because xTB/MOPAC disagree in sign; sensitivity analysis only,-0.064604,0.903228,0.257143,0.622787
+kd_itc_sensitivity_without_3MXF,mopac,pKd,negative,6,3MXF excluded because xTB/MOPAC disagree in sign; sensitivity analysis only,-0.684489,0.133617,-0.085714,0.871743

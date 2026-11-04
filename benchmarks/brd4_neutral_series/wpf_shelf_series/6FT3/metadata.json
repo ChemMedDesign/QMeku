@@ -1,0 +1,23 @@
+{
+  "pdb_id": "6FT3",
+  "set": "wpf_shelf_series",
+  "ligand_ccd": "E5T",
+  "selected_instance": {
+    "chain": "A",
+    "resnum": "202",
+    "inscode": "_"
+  },
+  "chains_within_8A": [
+    "A"
+  ],
+  "downloaded_utc": "2026-11-01T02:36:33.650200+00:00",
+  "sha256": {
+    "E5T_ideal.sdf": "b988a8ddb2a0507855be1ede9afeff17695085ab3f893136376428adf3ef908b",
+    "structure.pdb": "4837827f2b9613cb6582ee35388f2817e090f25e8de9216fd0d9ab97593afb93",
+    "structure.cif": "1f08b59428737e176b854f4801e5b7b8a86aaa6f3fa772cf1d32047e70d9b8ab",
+    "receptor_protein_only_unprepared.pdb": "be4b11b0cd957f9d21874834238dc45f90b3349b52b3dfbc2a21bb4e7add11d2",
+    "ligand_crystal_unprepared.sdf": "b6e53ac549eb9c699905f6e4aee123746df91d75f3ce9e862782350cc9b7fcef",
+    "ligand_crystal.pdb": "a7413831c50128cbddc6be515c84d0002fe4dddfec88f842da2c3e62a59a7606",
+    "entry.json": "48c18cb23a6ad61f24b58b50cce04b0e3197ed2f0429a98f09c83ca1fb4f9f31"
+  }
+}

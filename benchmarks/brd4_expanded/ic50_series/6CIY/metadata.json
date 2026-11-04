@@ -1,0 +1,37 @@
+{
+  "accessed_utc": "2026-11-01T01:48:49.930105+00:00",
+  "assembly_id": null,
+  "coordinate_source": "raw/structure.pdb",
+  "ligand_atom_count": 45,
+  "ligand_ccd": "F3J",
+  "ligand_sdf_status": "created_with_RDKIT_CCD_template_and_crystal_coordinates; verify protonation",
+  "pdb_id": "6CIY",
+  "preparation_status": "raw_only; protonation, AMBER residue naming, and ligand chemistry require validation",
+  "selected_ligand_instance": {
+    "chain": "A",
+    "insertion_code": "_",
+    "residue_number": "201"
+  },
+  "selected_protein_chains_within_8A": [
+    "A"
+  ],
+  "set": "ic50_series",
+  "sha256": {
+    "raw/F3J_ideal.sdf": "a81120d7bba531781f6e5d9d3233e05e28e19aafaafb2ce9dbfdd26fe77e50cf",
+    "raw/entry.json": "0409e4f65322704b4d77276d56ef086c6751685ea33231bb011c1e8308e497df",
+    "raw/ligand_crystal.pdb": "adbb7c8d68fdfadc95da2b153e2626fe5768e9dda27ce4d51867aa69b8fc4f2f",
+    "raw/ligand_crystal_unprepared.sdf": "18e1aba8bb6efc98787b5c480688d2627c73a67956f3570199511effae0f812f",
+    "raw/receptor_protein_only_unprepared.pdb": "12db88dd3d7b55d876dcf353914f9ab8e46041a5b1775ff6481224be0924df82",
+    "raw/structure.cif": "5c7efbebfc7b568b12e151bcdee781b0a95009f3c719ae0b1881b7b9263f6389",
+    "raw/structure.pdb": "5ef6b2e7608226cf809b4639c23009b3653f4693655b45ca0e46271a33d43b2a"
+  },
+  "source": "RCSB Protein Data Bank",
+  "urls": {
+    "cif": "https://files.rcsb.org/download/6CIY.cif",
+    "entry_json": "https://data.rcsb.org/rest/v1/core/entry/6CIY",
+    "ligand_ideal_sdf": "https://files.rcsb.org/ligands/download/F3J_ideal.sdf",
+    "pdb": "https://files.rcsb.org/download/6CIY.pdb",
+    "validation_pdf": "https://files.rcsb.org/pub/pdb/validation_reports/ci/6ciy/6ciy_full_validation.pdf"
+  },
+  "validation_warning": null
+}

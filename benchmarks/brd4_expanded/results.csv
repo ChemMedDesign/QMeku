@@ -1,0 +1,15 @@
+pdb_id,set,ligand_name,ligand_ccd,activity_type,activity_value,activity_error,activity_unit,p_activity,experimental_dg_kcal_mol,xtb_e_bind_kcal_mol,mopac_e_bind_kcal_mol,pocket_residues,pocket_atoms,pocket_charge,ligand_charge,status
+6CIS,ic50_series,JWG-047,X26,IC50,0.30,0.05,uM,6.522879,,-22.957,-14.930,18,353,0,1,completed
+6CIY,ic50_series,JWG-069,F3J,IC50,0.41,0.01,uM,6.387216,,-20.061,-16.519,15,296,0,1,completed
+6CD5,ic50_series,XMD17-26,R4L,IC50,0.75,0.11,uM,6.124939,,-18.990,-16.638,19,365,-1,1,completed
+5WA5,ic50_series,XMD11-50 (LRRK2-IN-1),4K4,IC50,1.04,0.18,uM,5.982967,,-14.001,-9.174,15,296,0,1,completed
+5W55,ic50_series,JWG-048,X30,IC50,2.41,0.23,uM,5.617983,,-23.370,-20.491,15,296,0,1,completed
+6CD4,ic50_series,JWG-046,EX1,IC50,5.14,0.59,uM,5.289037,,-16.295,-14.085,15,296,0,1,completed
+6CJ1,ic50_series,JWG-071,F2S,IC50,6.31,1.93,uM,5.199971,,-21.910,-14.300,17,331,-1,1,completed
+3MXF,kd_itc_series,(+)-JQ1,JQ1,Kd,70.9,6.6,nM,7.149354,-9.753,-26.204,12.622,17,331,-1,1,completed
+4OGI,kd_itc_series,BI2536,R78,Kd,112,5,nM,6.950782,-9.483,-30.567,-14.993,20,400,-1,1,completed
+5VBO,kd_itc_series,LRRK2-IN-1,4K4,Kd,183,14,nM,6.737549,-9.192,-21.061,-17.111,15,296,0,1,completed
+7K6G,kd_itc_series,ERK5-IN-1,VYJ,Kd,213.2,10.8,nM,6.671213,-9.101,-19.747,-16.796,17,331,-1,1,completed
+5VBP,kd_itc_series,Ro3280,79C,Kd,266.7,23.8,nM,6.573977,-8.969,-33.604,-15.523,18,380,0,1,completed
+5V67,kd_itc_series,Volasertib,IBI,Kd,317,17,nM,6.498941,-8.866,-32.142,-17.976,16,318,1,1,completed
+5LRQ,kd_itc_series,XMD8-92,4WG,Kd,735,38,nM,6.133713,-8.368,-24.199,-7.654,15,296,0,1,completed

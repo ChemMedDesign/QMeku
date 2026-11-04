@@ -1,0 +1,24 @@
+{
+  "ligand": {
+    "reused": true
+  },
+  "ligand_tool": "RDKit 2026.03.6",
+  "pdb_id": "4NUD",
+  "prepared_utc": "2026-11-01T02:41:16.808669+00:00",
+  "protein_tool": "pdb4amber --reduce (AmberTools)",
+  "protonation_ph": 7.4,
+  "qmeku_validation": {
+    "even_electron_model": true,
+    "ligand_charge": 0,
+    "min_atom_distance_A": 0.98,
+    "model_charge": 0,
+    "model_electrons": 1182,
+    "pocket_atoms": 254,
+    "pocket_residues_at_4A": 12,
+    "pose": "4NUD_NUD_crystal_neutral_pH7.4"
+  },
+  "receptor": {
+    "reused": true
+  },
+  "revalidated_utc": "2026-11-01T02:41:53.376425+00:00"
+}

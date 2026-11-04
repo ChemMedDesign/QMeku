@@ -1,0 +1,21 @@
+
+==================================================
+Summary of pdb4amber for: /tmp/qmeku_6FT4_pr9onj1g/protein_heavy.pdb
+===================================================
+
+----------Chains
+The following (original) chains have been found:
+A
+
+---------- Alternate Locations (Original Residues!))
+
+The following residues had alternate locations:
+None
+-----------Non-standard-resnames
+
+
+---------- Missing heavy atom(s)
+
+LYS_50 misses 2 heavy atom(s)
+LYS_100 misses 2 heavy atom(s)
+GLU_126 misses 4 heavy atom(s)

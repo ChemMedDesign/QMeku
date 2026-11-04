@@ -1,0 +1,23 @@
+{
+  "ligand": {
+    "reused": true
+  },
+  "ligand_tool": "RDKit 2026.03.6",
+  "pdb_id": "5V67",
+  "prepared_utc": "2026-11-01T01:55:11.083293+00:00",
+  "protein_tool": "pdb4amber --reduce (AmberTools)",
+  "protonation_ph": 7.4,
+  "qmeku_validation": {
+    "even_electron_model": true,
+    "ligand_charge": 1,
+    "min_atom_distance_A": 0.9801,
+    "model_charge": 2,
+    "model_electrons": 1550,
+    "pocket_atoms": 318,
+    "pocket_residues_at_4A": 16,
+    "pose": "5V67_IBI_crystal_pH7.4"
+  },
+  "receptor": {
+    "reused": true
+  }
+}

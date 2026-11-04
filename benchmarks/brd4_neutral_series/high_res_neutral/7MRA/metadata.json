@@ -1,0 +1,23 @@
+{
+  "pdb_id": "7MRA",
+  "set": "high_res_neutral",
+  "ligand_ccd": "ZMJ",
+  "selected_instance": {
+    "chain": "A",
+    "resnum": "201",
+    "inscode": "_"
+  },
+  "chains_within_8A": [
+    "A"
+  ],
+  "downloaded_utc": "2026-11-01T02:36:38.405348+00:00",
+  "sha256": {
+    "structure.pdb": "a5a15ce137310a50e4bb7a36152be1274907f318d5f170551a71e1ee71300374",
+    "structure.cif": "ed0a4d50186af25954e363df0e122060ca81bef336aab1c4bae143601cd4673d",
+    "receptor_protein_only_unprepared.pdb": "62b0318172e96774018e892028ad10b958f90396e5daae920bbde7d3fac8c4f4",
+    "ZMJ_ideal.sdf": "f34f9227aae38cd3c05cce81ac9543eadeee2047462bf8042ac9a6db12159f02",
+    "ligand_crystal_unprepared.sdf": "026c1c3cb39a2a2815b47097c7eb44568e9af98ab1bf7988bdcb8d71797eb765",
+    "ligand_crystal.pdb": "a28a04f17e4c5a25c69136b0b64e4b59564e6f194a09e3deba562c1c526d1f3a",
+    "entry.json": "003606bf677108452e426ecde123a9db5a22231e565ab39656894d5f458e006b"
+  }
+}

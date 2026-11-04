@@ -1,0 +1,23 @@
+{
+  "pdb_id": "4E96",
+  "set": "pfi1_series",
+  "ligand_ccd": "0NS",
+  "selected_instance": {
+    "chain": "A",
+    "resnum": "201",
+    "inscode": "_"
+  },
+  "chains_within_8A": [
+    "A"
+  ],
+  "downloaded_utc": "2026-11-01T02:36:31.625476+00:00",
+  "sha256": {
+    "0NS_ideal.sdf": "c3b47f7c6e39372d454ddbe02466622d16dc13b7e2dc2c0858558bc21e6e838f",
+    "structure.pdb": "0ad66d96feebf50b34f718a7d5e3a4fbbbc69969ff6b689d0f18dec2095d8855",
+    "structure.cif": "3d58acf88af2e604d02bb4d0ca6179ec609a0fc17adc47016172e039b9188de5",
+    "receptor_protein_only_unprepared.pdb": "84fd8cadaa9b8ec4fed01f2c42a26ab2173da45b97fae17531d4d95bc30b9a47",
+    "ligand_crystal_unprepared.sdf": "f5669ac79058968e84b65bce2b4f4cf76d0c974a4d861ae02c315a1c11c9cf2b",
+    "ligand_crystal.pdb": "29e0b202686ac5aa00523937ca3aae6ec94f26477a31fe7954f83bf98902515e",
+    "entry.json": "90ac93d542b8eac5db2dc37616ff90ed8755a1628410291030ec63236a9d0492"
+  }
+}

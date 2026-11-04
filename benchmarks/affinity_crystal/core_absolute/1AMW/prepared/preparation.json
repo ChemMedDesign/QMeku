@@ -1,0 +1,68 @@
+{
+  "ligand": {
+    "atom_count": 39,
+    "charge": -3,
+    "heavy_atom_count": 27,
+    "heavy_atom_rmsd_A": 0.0,
+    "protonation_changes": [
+      "ADP terminal phosphate O atoms deprotonated [2, 3, 6]"
+    ],
+    "reused": false
+  },
+  "ligand_tool": "RDKit 2026.03.6",
+  "pdb_id": "1AMW",
+  "prepared_utc": "2026-10-31T19:49:28.547028+00:00",
+  "protein_tool": "pdb4amber --reduce (AmberTools)",
+  "protonation_ph": 7.4,
+  "qmeku_validation": {
+    "even_electron_model": true,
+    "ligand_charge": -3,
+    "model_charge": -3,
+    "model_electrons": 1418,
+    "pocket_atoms": 315,
+    "pocket_residues_at_4A": 18,
+    "pose": "1AMW_ADP_crystal_pH7.4"
+  },
+  "receptor": {
+    "atom_count": 3409,
+    "heavy_atom_modifications": [],
+    "hydrogen_count": 1715,
+    "pdb4amber_command": [
+      "pdb4amber",
+      "-i",
+      "/tmp/qmeku_1AMW_4yixne81/protein_heavy.pdb",
+      "-o",
+      "/tmp/qmeku_1AMW_4yixne81/receptor_amber.pdb",
+      "-p",
+      "-a",
+      "-d",
+      "--reduce",
+      "--add-missing-atoms",
+      "-l",
+      "/tmp/qmeku_1AMW_4yixne81/pdb4amber.log"
+    ],
+    "pdb4amber_returncode": 0,
+    "residue_names": [
+      "ALA",
+      "ARG",
+      "ASN",
+      "ASP",
+      "GLN",
+      "GLU",
+      "GLY",
+      "HIE",
+      "ILE",
+      "LEU",
+      "LYS",
+      "MET",
+      "PHE",
+      "PRO",
+      "SER",
+      "THR",
+      "TRP",
+      "TYR",
+      "VAL"
+    ],
+    "reused": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "accessed_utc": "2026-10-31T19:40:16.219735+00:00",
+  "assembly_id": null,
+  "coordinate_source": "raw/structure.pdb",
+  "ligand_atom_count": 76,
+  "ligand_ccd": "5W2",
+  "ligand_sdf_status": "created_with_RDKIT_CCD_template_and_crystal_coordinates; verify protonation",
+  "pdb_id": "5F63",
+  "preparation_status": "raw_only; protonation, AMBER residue naming, and ligand chemistry require validation",
+  "selected_ligand_instance": {
+    "chain": "A",
+    "insertion_code": "_",
+    "residue_number": "201"
+  },
+  "selected_protein_chains_within_8A": [
+    "A"
+  ],
+  "set": "brd4_rank",
+  "sha256": {
+    "raw/5W2_ideal.sdf": "fc63a8466910daabc8c1ebe4e1e3526094b0619d1c13c7f4c6b569d8282c3e78",
+    "raw/entry.json": "c82d79a0117fbeb87db8c64870716f7e7f7e979d3af835bf2cd31be5efc8c761",
+    "raw/ligand_crystal.pdb": "9bfec9f4ac38865b2272627894a89254eb8e49d2f14e7a21b01b4a3a8c6f6310",
+    "raw/ligand_crystal_unprepared.sdf": "23230a362191dc878118d9cc15d3ec4bd1ea2e5d1076897117a215dd91ef658b",
+    "raw/receptor_protein_only_unprepared.pdb": "f5d0ac7c9687d6ace8ca1a33dbdf672744fd692fac7d4d49d1720ebff70ed066",
+    "raw/structure.cif": "1d02cfb55442aa379b1c90c873689bb62f617ec9c6675ea918f07875eaffd4cd",
+    "raw/structure.pdb": "629e71fe2945eb875e3c7535172b1bcdfacbf7cfd0319d3272ec278f217e8439"
+  },
+  "source": "RCSB Protein Data Bank",
+  "urls": {
+    "cif": "https://files.rcsb.org/download/5F63.cif",
+    "entry_json": "https://data.rcsb.org/rest/v1/core/entry/5F63",
+    "ligand_ideal_sdf": "https://files.rcsb.org/ligands/download/5W2_ideal.sdf",
+    "pdb": "https://files.rcsb.org/download/5F63.pdb",
+    "validation_pdf": "https://files.rcsb.org/pub/pdb/validation_reports/f6/5f63/5f63_full_validation.pdf"
+  },
+  "validation_warning": "could not download https://files.rcsb.org/pub/pdb/validation_reports/f6/5f63/5f63_full_validation.pdf: HTTP Error 403: Forbidden"
+}

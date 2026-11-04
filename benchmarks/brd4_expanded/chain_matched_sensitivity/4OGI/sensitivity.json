@@ -1,0 +1,77 @@
+{
+  "created_utc": "2026-11-01T02:19:07.059124+00:00",
+  "ligand_chain": "B",
+  "original_selected_chains": [
+    "A",
+    "B"
+  ],
+  "pdb_id": "4OGI",
+  "purpose": "chain-matched monomer sensitivity; original benchmark retained",
+  "qmeku_command": [
+    "/path/to/qmeku/bin/qmeku",
+    "/path/to/qmeku/benchmarks/brd4_expanded/chain_matched_sensitivity/4OGI/prepared/receptor.pdb",
+    "/path/to/qmeku/benchmarks/brd4_expanded/kd_itc_series/4OGI/prepared/ligand.sdf",
+    "--outdir",
+    "/path/to/qmeku/benchmarks/brd4_expanded/chain_matched_sensitivity/4OGI/results",
+    "--method",
+    "both",
+    "--total-only",
+    "--no-gas",
+    "--workers",
+    "2",
+    "--quiet"
+  ],
+  "qmeku_validation": {
+    "even_electron_model": true,
+    "ligand_charge": 1,
+    "min_atom_distance_A": 0.9795,
+    "model_charge": 1,
+    "model_electrons": 1426,
+    "pocket_atoms": 296,
+    "pocket_residues_at_4A": 15,
+    "pose": "4OGI_R78_crystal_pH7.4"
+  },
+  "receptor": {
+    "atom_count": 2121,
+    "heavy_atom_modifications": [],
+    "hydrogen_count": 1059,
+    "pdb4amber_command": [
+      "pdb4amber",
+      "-i",
+      "/tmp/qmeku_4OGI_e48z71la/protein_heavy.pdb",
+      "-o",
+      "/tmp/qmeku_4OGI_e48z71la/receptor_amber.pdb",
+      "-p",
+      "-a",
+      "-d",
+      "--reduce",
+      "--add-missing-atoms",
+      "-l",
+      "/tmp/qmeku_4OGI_e48z71la/pdb4amber.log"
+    ],
+    "pdb4amber_returncode": 0,
+    "residue_names": [
+      "ALA",
+      "ARG",
+      "ASN",
+      "ASP",
+      "CYS",
+      "GLN",
+      "GLU",
+      "GLY",
+      "HIE",
+      "ILE",
+      "LEU",
+      "LYS",
+      "MET",
+      "PHE",
+      "PRO",
+      "SER",
+      "THR",
+      "TRP",
+      "TYR",
+      "VAL"
+    ],
+    "reused": false
+  }
+}

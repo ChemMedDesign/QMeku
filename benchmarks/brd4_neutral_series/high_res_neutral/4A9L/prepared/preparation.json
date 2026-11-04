@@ -1,0 +1,64 @@
+{
+  "ligand": {
+    "reused": true
+  },
+  "ligand_tool": "RDKit 2026.03.6",
+  "pdb_id": "4A9L",
+  "prepared_utc": "2026-11-01T02:41:32.833001+00:00",
+  "protein_tool": "pdb4amber --reduce (AmberTools)",
+  "protonation_ph": 7.4,
+  "qmeku_validation": {
+    "even_electron_model": true,
+    "ligand_charge": 0,
+    "min_atom_distance_A": 0.98,
+    "model_charge": -1,
+    "model_electrons": 1308,
+    "pocket_atoms": 289,
+    "pocket_residues_at_4A": 14,
+    "pose": "4A9L_P9L_crystal_neutral_pH7.4"
+  },
+  "receptor": {
+    "atom_count": 2106,
+    "heavy_atom_modifications": [],
+    "hydrogen_count": 1053,
+    "pdb4amber_command": [
+      "pdb4amber",
+      "-i",
+      "/tmp/qmeku_4A9L_rq6xig8j/protein_heavy.pdb",
+      "-o",
+      "/tmp/qmeku_4A9L_rq6xig8j/receptor_amber.pdb",
+      "-p",
+      "-a",
+      "-d",
+      "--reduce",
+      "--add-missing-atoms",
+      "-l",
+      "/tmp/qmeku_4A9L_rq6xig8j/pdb4amber.log"
+    ],
+    "pdb4amber_returncode": 0,
+    "residue_names": [
+      "ALA",
+      "ARG",
+      "ASN",
+      "ASP",
+      "CYS",
+      "GLN",
+      "GLU",
+      "GLY",
+      "HIE",
+      "ILE",
+      "LEU",
+      "LYS",
+      "MET",
+      "PHE",
+      "PRO",
+      "SER",
+      "THR",
+      "TRP",
+      "TYR",
+      "VAL"
+    ],
+    "reused": false
+  },
+  "revalidated_utc": "2026-11-01T02:41:53.466403+00:00"
+}

@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.eggs/
+.pytest_cache/
+.venv/
+venv/
+
+# Crystals downloaded by benchmarks/*/download_crystals.py: regenerable, and their
+# SHA-256 is recorded in each case's metadata.json
+benchmarks/*/*/*/raw/
+benchmarks/*/*/raw/
+
+# Readable log of each benchmark run: every value it prints is a column of poses.csv
+benchmarks/*/*/*/results/qmeku.log
+benchmarks/*/*/results/qmeku.log
+
+# Scratch files left behind by xtb and MOPAC
+xtbrestart
+xtbtopo.mol
+xtbopt.log
+xtbopt.xyz
+.xtboptok
+wbo
+charges
+hessian
+*.aux
+*.arc
+*.mop
+reduce_info.log
+
+# Editors and desktop environments
+.vscode/
+.idea/
+.DS_Store
+*~

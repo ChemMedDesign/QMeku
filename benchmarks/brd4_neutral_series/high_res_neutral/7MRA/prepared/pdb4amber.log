@@ -1,0 +1,24 @@
+
+==================================================
+Summary of pdb4amber for: /tmp/qmeku_7MRA_31a8q47j/protein_heavy.pdb
+===================================================
+
+----------Chains
+The following (original) chains have been found:
+A
+
+---------- Alternate Locations (Original Residues!))
+
+The following residues had alternate locations:
+MET_2
+ASN_3
+THR_93
+ASN_94
+-----------Non-standard-resnames
+
+
+---------- Missing heavy atom(s)
+
+None
+The alternate coordinates have been discarded.
+Only the first occurrence for each atom was kept.

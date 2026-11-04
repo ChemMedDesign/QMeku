@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "qmeku"
+version = "1.0"
+description = "QMeku: approximate binding energy and per-residue decomposition of docking poses with xtb and MOPAC"
+requires-python = ">=3.9"
+readme = "README.md"
+license = {file = "LICENSE"}
+dependencies = ["rdkit"]
+# Third-party program notices: see NOTICE.md.
+
+[project.optional-dependencies]
+benchmarks = ["numpy", "scipy", "pandas", "matplotlib", "Pillow"]
+
+[project.urls]
+Homepage = "https://github.com/ChemMedDesign/qmeku"
+Repository = "https://github.com/ChemMedDesign/qmeku"
+Issues = "https://github.com/ChemMedDesign/qmeku/issues"
+
+[project.scripts]
+qmeku = "qmeku.cli:main"
+
+[tool.setuptools]
+packages = ["qmeku"]
