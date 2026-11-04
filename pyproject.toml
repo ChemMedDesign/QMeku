@@ -10,6 +10,12 @@ requires-python = ">=3.9"
 readme = "README.md"
 license = {file = "LICENSE"}
 dependencies = ["rdkit"]
+classifiers = [
+    "License :: OSI Approved :: GNU General Public License v3 or later (GPLv3+)",
+    "Programming Language :: Python :: 3",
+    "Intended Audience :: Science/Research",
+    "Topic :: Scientific/Engineering :: Chemistry",
+]
 # Third-party program notices: see NOTICE.md.
 
 [project.optional-dependencies]

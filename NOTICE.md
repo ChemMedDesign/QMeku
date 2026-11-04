@@ -4,7 +4,7 @@
 
 All the code of the `qmeku/` package (pocket selection, closure of the cut bonds, bridging residues, concap
 correction, execution of xtb and MOPAC, per-residue analysis, outputs and logging) is original work of the
-**SB2CS lab** for QMeku. It is distributed under the MIT licence (see `LICENSE`).
+**SB2CS lab** for QMeku. It is distributed under the **GNU General Public License, version 3 or later** (see `LICENSE`).
 
 ## History
 

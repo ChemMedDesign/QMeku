@@ -4,7 +4,7 @@
 
 ![version](https://img.shields.io/badge/version-1.0-blue)
 ![python](https://img.shields.io/badge/python-%E2%89%A5%203.9-blue)
-![licence](https://img.shields.io/badge/licence-MIT-green)
+![licence](https://img.shields.io/badge/licence-GPLv3%2B-green)
 ![tests](https://img.shields.io/badge/tests-32-informational)
 
 QMeku takes a receptor and a set of docking poses and computes the ligand–pocket interaction energy with
@@ -288,8 +288,13 @@ references are in `docs/METHOD.md`.
 
 ## Licence
 
-MIT, © 2026 SB2CS lab — see `LICENSE`. QMeku invokes xtb, MOPAC, RDKit and PDB2PQR but redistributes none of
-them; their licences and the provenance of the code are in `NOTICE.md`. **MOPAC's licence is academic: check
-that your use is covered before you rely on PM6-D3H4X results.**
+**GNU General Public License, version 3 or (at your option) any later version**, © 2026 SB2CS lab — see
+`LICENSE` for the full text of version 3. You may use, study, modify and redistribute QMeku; if you distribute
+a modified version, or software derived from it, it must carry the same licence and its source must be
+available. There is no warranty.
+
+QMeku invokes xtb, MOPAC, RDKit and PDB2PQR as separate programs and redistributes none of them, so their
+licences apply to them and not to QMeku; the provenance of the code and their licences are in `NOTICE.md`.
+**MOPAC's licence is academic: check that your use is covered before you rely on PM6-D3H4X results.**
 
 Developed by the **SB2CS lab**. Bug reports and questions are welcome through the issue tracker.
